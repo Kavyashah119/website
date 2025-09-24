@@ -1,0 +1,43 @@
+{
+    "job_roles": [
+      {
+        "role": "Software Engineer",
+        "location": "San Francisco",
+        "salary": "$100,000",
+        "work_experience": "2 years",
+        "hours_per_week": 40
+      },
+      {
+        "role": "Marketing Manager",
+        "location": "New York",
+        "salary": "$90,000",
+        "work_experience": "3 years",
+        "hours_per_week": 45
+      },
+      {
+        "role": "Data Scientist",
+        "location": "Seattle",
+        "salary": "$110,000",
+        "work_experience": "4 years",
+        "hours_per_week": 35
+      },
+      {
+        "role": "Data Analyst",
+        "location": "Seattle",
+        "salary": "$110,000",
+        "work_experience": "4 years",
+        "hours_per_week": 35
+      },
+      {
+        "role": "Data Warehouse",
+        "location": "Seattle",
+        "salary": "$110,000",
+        "work_experience": "4 years",
+        "hours_per_week": 35
+      }
+
+      
+
+    ]
+  }
+  
